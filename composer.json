@@ -1,8 +1,8 @@
 {
-  "name": "devr/wp-loader",
+  "name": "devr/wp-app-loader",
   "type": "library",
   "license": "MIT",
-  "description": "Loader",
+  "description": "App loader",
   "keywords": ["loader", "dev", "wordpress"],
   "homepage": "https://github.com/pldevr/wp-loader",
   "require": {

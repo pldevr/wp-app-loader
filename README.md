@@ -1,5 +1,5 @@
 Installation
 ------------
 ```shell
-composer require devr/wp-loader:dev-master
+composer require devr/wp-app-loader:dev-master
 ```
